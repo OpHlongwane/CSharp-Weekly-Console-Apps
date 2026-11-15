@@ -1,5 +1,4 @@
 # CSharp-Weekly-Console-Apps
-C# Weekly Console Applications
 A collection of small C# console applications built for consistent coding practice.
 
 The purpose of this repository is to practise turning requirements into working programs, strengthen C# fundamentals, become more comfortable solving problems independently, and learn Git through regular commits.
