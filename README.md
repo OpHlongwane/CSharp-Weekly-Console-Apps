@@ -30,5 +30,6 @@ Weekly workflow
 5. Run it with normal, boundary and invalid inputs.
 6. Review and improve the code.
 7. Commit the work to Git with a clear commit message.
+   
 Git practice
 I will practise Git throughout development, not only after an application is finished. The goal is not to produce six perfect applications quickly. The goal is to code regularly, understand the decisions I make, learn from mistakes and gradually become more independent.
