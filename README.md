@@ -22,6 +22,7 @@ Each application folder will contain its own C# project and, where useful, a sho
 - Concepts practised
 - How to run it
 - What I learned and what I would improve
+- 
 Weekly workflow
 1. Read and understand the requirements.
 2. Identify the inputs, outputs and rules.
